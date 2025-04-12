@@ -1,0 +1,10 @@
+{
+  "name": "PrideIdentification-Editor",
+  "references": [
+    "PrideIdentification"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
